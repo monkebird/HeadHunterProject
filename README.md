@@ -45,10 +45,10 @@
 ## Используемые зависимости
 
 * Python (3.9):
-    * [numpy (1.20.3)](https://numpy.org)
-    * [pandas (1.3.4)](https://pandas.pydata.org)
-    * [matplotlib (3.4.3)](https://matplotlib.org)
-    * [seaborn (0.11.2)](https://seaborn.pydata.org)
+    * [numpy (1.25.1)](https://numpy.org)
+    * [pandas (2.0.3)](https://pandas.pydata.org)
+    * [matplotlib (3.8.0)](https://matplotlib.org)
+    * [seaborn (0.12.2)](https://seaborn.pydata.org)
 
 Библиотеки и их версии, которые должны быть установлены, чтобы проект успешно запустился, находятся в файле requirements.txt.
 
