@@ -1,7 +1,7 @@
 # HeadHunterProject
 Проект по анализу, предобработке и очистке данных.
 
-![HeadHunter](https://moysite.ru/wp-content/uploads/2021/10/headhunter-logo.jpg)
+<center> ![HeadHunter](https://moysite.ru/wp-content/uploads/2021/10/headhunter-logo.jpg) </center>
 # <center> Project-1: Анализ резюме из HeadHunter </center>
 
 ## Оглавление
