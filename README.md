@@ -60,7 +60,7 @@ git clone https://github.com/monkebird/HeadHunterProject
 
 ## Автор
 
-* [Полина Подлесная](https://vk.com/monkeybird)
+* [Полина Подлесная](https://t.me/birdmonkey)
 
   
 ## Выводы
